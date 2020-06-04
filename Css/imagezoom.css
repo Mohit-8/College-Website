@@ -1,0 +1,29 @@
+.professor h1
+{
+	font-weight: bolder;
+}
+ h2
+{
+	font-weight: bold;
+}
+.professor p
+{
+	font-weight: lighter;
+}
+.box
+{
+	width: 345px;
+	height: 300px;
+	position: relative;
+
+	overflow: hidden;
+}
+.box img
+{
+	width: 100%;
+	transition: .5s all ease-in-out;
+}
+.box:hover img
+{
+	transform: scale(1.5);
+}
