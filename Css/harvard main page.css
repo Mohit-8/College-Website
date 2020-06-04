@@ -1,0 +1,11 @@
+.navbar{background:#222222;}
+#bg::after{content:'';display:block;width:0px;height:3px;background:#fec400;transition: 0.3s;}
+#bg:hover::after{width:100%;}
+.navbar-dark .navbar-nav .active > .qwer, .navbar-dark .navbar-nav .qwer.active, .navbar-dark .navbar-nav .qwer.show, .navbar-dark .navbar-nav .show > .qwer,.navbar-dark .navbar-nav .qwer:focus, .navbar-dark .navbar-nav .qwer:hover{color:#fec400;}
+.qwer{padding:15px 5px;transition:0.2s;}
+.qwer:hover{
+	color: aliceblue !important;
+}
+.qwer{
+	color: aliceblue !important;
+}
