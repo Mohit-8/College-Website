@@ -1,0 +1,30 @@
+:root {
+
+}
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius:0;
+    margin:10px auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0.5, 0.5);
+}
+.card-title {
+	text-transform: uppercase;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#7ac7c4;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
