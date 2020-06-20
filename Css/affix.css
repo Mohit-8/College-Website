@@ -1,0 +1,16 @@
+
+  body {
+  
+  font-family: Arial, Helvetica, sans-serif;
+   background-color: #e6f2ff;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+    padding-top: 70px;
+  }javascript:void(0);
+
